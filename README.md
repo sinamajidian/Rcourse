@@ -9,7 +9,7 @@ We need a good interface which is called R-Studio. You can download it from [her
 
 We need both softwares in our workshop.
 
-If you have problem in downloading it you may download it from [here](http://s1.mihandownload.com/2017/arjmandi/soft/RStudio.Desktop.Open.Source.License.v1.0.136%28www.MihanDownload.com%29.rar​). Please unzip it using the password 'www.mihandownload.com​​​'.
+If you have problem in downloading it you may download it from [here](http://s1.mihandownload.com/2017/arjmandi/soft/RStudio.Desktop.Open.Source.License.v1.0.136%28www.MihanDownload.com%29.rar​). Please unzip it using the password `www.mihandownload.com​​​`.
 
 
 
