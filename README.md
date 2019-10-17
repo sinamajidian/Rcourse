@@ -27,12 +27,17 @@ install.packages("pheatmap")
 When it finishes, copy the following and paste it in console, then press enter.
 
 ```
-source("http://bioconductor.org/biocLite.R"); 
-biocLite(c("GEOquery", "limma"))
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("limma")
+
+
 install.packages("DESeq2")
+
+install.packages("GEOquery")
 ```
-
-
 
 
 ## Slides
