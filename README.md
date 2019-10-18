@@ -4,7 +4,7 @@
 
 You can download the R software from [here](https://cran.r-project.org/bin/windows/base/R-3.6.1-win.exe). This software is the core of R-programming. 
 
-We need a good interface which is called R-Studio. You can download it from [here](https://rstudio.com/products/rstudio/download/). If you have problem in downloading it you may download it from [here](https://mihandownload.com/software/rstudio). 
+We need a good interface which is called R-Studio. You can download it from [here](https://rstudio.com/products/rstudio/download/) using VPN. If you have problem in downloading it you may download it from [here](https://mihandownload.com/software/rstudio). 
 
 
 
